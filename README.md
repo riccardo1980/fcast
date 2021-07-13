@@ -2,7 +2,9 @@
 ## Resources  
 
 - Software:
-    - [prophet](https://facebook.github.io/prophet/)
+    - facebook:
+        - [prophet](https://facebook.github.io/prophet/)
+        - [kats](https://facebookresearch.github.io/Kats/)
     - [NeuralProphet](http://neuralprophet.com/model-overview/)
     - [statsmodels](https://www.statsmodels.org/stable/index.html)
     - [xgboost](https://xgboost.readthedocs.io/en/latest/get_started.html)
